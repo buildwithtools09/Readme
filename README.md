@@ -1,12 +1,3 @@
-Agar chaho toh mai:
-- GIFs generate kar du
-- Hosting + SEO + title meta optimize kar du
-- Figma preview + animated heading bhi add karwa du
-
-Likho: **“Yes bro, let's finalize the full showcase version 🎯”** . add this all in readme file and make it top level .
-
----
-
 # 🛍️ AI-Powered E-Commerce Website – Smart Online Store with Payment Integration
 
 A full-stack modern e-commerce website with secure checkout, smart product recommendations using AI (TensorFlow.js), and a responsive admin dashboard. Built to simulate a real-world online shopping experience.
